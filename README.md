@@ -1,1 +1,2 @@
-# java -jar DS_Store.jar https://example.com/.DS_Store
+# DS_Store
+java -jar DS_Store.jar https://example.com/.DS_Store
